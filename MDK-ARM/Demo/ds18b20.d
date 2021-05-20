@@ -1,0 +1,35 @@
+demo\ds18b20.o: ..\Core\Src\ds18b20.c
+demo\ds18b20.o: ../Core/Inc/ds18b20.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+demo\ds18b20.o: ../Core/Inc/stm32f1xx_hal_conf.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+demo\ds18b20.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+demo\ds18b20.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+demo\ds18b20.o: ../Drivers/CMSIS/Include/core_cm3.h
+demo\ds18b20.o: C:\Program Files\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+demo\ds18b20.o: ../Drivers/CMSIS/Include/cmsis_version.h
+demo\ds18b20.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+demo\ds18b20.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+demo\ds18b20.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+demo\ds18b20.o: C:\Program Files\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+demo\ds18b20.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+demo\ds18b20.o: ../Core/Inc/main.h
+demo\ds18b20.o: ../Core/Inc/tim.h

@@ -1,0 +1,34 @@
+demo\switch.o: ..\Core\Src\switch.c
+demo\switch.o: ../Core/Inc/switch.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+demo\switch.o: ../Core/Inc/stm32f1xx_hal_conf.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+demo\switch.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+demo\switch.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+demo\switch.o: ../Drivers/CMSIS/Include/core_cm3.h
+demo\switch.o: C:\Program Files\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+demo\switch.o: ../Drivers/CMSIS/Include/cmsis_version.h
+demo\switch.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+demo\switch.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+demo\switch.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+demo\switch.o: C:\Program Files\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+demo\switch.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+demo\switch.o: ../Core/Inc/main.h
